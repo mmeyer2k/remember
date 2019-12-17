@@ -1,0 +1,21 @@
+{
+    "name": "mmeyer2k/remember",
+    "description": "{
+    "name": "mmeyer2k/dcrypt",
+    "description": "PHP single-request static object storage container",
+    "keywords": ["php", "singleton"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Meyer",
+            "email": "m.meyer2k@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "files": ["shim.php"]
+    },
+    "minimum-stability": "dev"
+}
